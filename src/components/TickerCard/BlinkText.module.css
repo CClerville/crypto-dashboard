@@ -1,0 +1,6 @@
+.blink {
+  background-color: yellow;
+  color: black;
+  border-radius: 2px;
+  transition: background-color 1s ease-out;
+}

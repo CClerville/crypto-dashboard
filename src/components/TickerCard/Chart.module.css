@@ -1,0 +1,12 @@
+.ticker_chart_container {
+  width: 100%;
+  height: 180px;
+}
+
+.no_chart_data_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 180px;
+  color: white;
+}
